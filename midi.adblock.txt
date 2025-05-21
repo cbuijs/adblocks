@@ -1,5 +1,5 @@
 ! Title: MIDI Allow/Block List (DNS)
-! Version: 1747757907
+! Version: 1747844307
 !
 ! Block Domain Exceptions (Parent is allow-listed)
 @@||adspeed.net^$denyallow=g.adspeed.net
