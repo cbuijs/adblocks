@@ -1,8 +1,8 @@
 ! Title: MIDI Allow/Block List (DNS)
-! Version: 1757953132
+! Version: 1758039537
 !
 ! Block Domain Exceptions (Parent is allow-listed)
-@@||cloudfunctions.net^$denyallow=asia-northeast1-affiliate-pr.cloudfunctions.net|europe-west1-bonnier-big-data.cloudfunctions.net|europe-west1-niro-tracking.cloudfunctions.net|europe-west1-sonorous-dragon-276210.cloudfunctions.net|us-central1-adaptive-growth.cloudfunctions.net|us-central1-amp-error-reporting.cloudfunctions.net|us-central1-analytics-236511.cloudfunctions.net|us-central1-markuphero.cloudfunctions.net
+@@||cloudfunctions.net^$denyallow=asia-northeast1-affiliate-pr.cloudfunctions.net|europe-west1-bonnier-big-data.cloudfunctions.net|europe-west1-niro-tracking.cloudfunctions.net|europe-west1-sonorous-dragon-276210.cloudfunctions.net|us-central1-adaptive-growth.cloudfunctions.net|us-central1-amp-error-reporting.cloudfunctions.net|us-central1-markuphero.cloudfunctions.net
 @@||gmodules.com^$denyallow=ads.gmodules.com
 @@||google.ac^$denyallow=adservice.google.ac
 @@||google.ad^$denyallow=ads.google.ad|adservice.google.ad
@@ -236,7 +236,7 @@
 @@||google.ws^$denyallow=ads.google.ws|adservice.google.ws
 @@||googleapis.com^$denyallow=clientmetrics-pa.googleapis.com|crashlyticsreports-pa.googleapis.com|firebaseinstallations.googleapis.com|firebaselogging-pa.googleapis.com|firebaselogging.googleapis.com|firebaseperusertopics-pa.googleapis.com|firebaseremoteconfig.googleapis.com|firebaseremoteconfigrealtime.googleapis.com|imasdk.googleapis.com
 @@||googleblog.com^$denyallow=analytics.googleblog.com
-@@||googlegroups.com^$denyallow=13453765871837679316.googlegroups.com|hdmc-analytics.googlegroups.com
+@@||googlegroups.com^$denyallow=hdmc-analytics.googlegroups.com
 @@||gstatic.com^$denyallow=csi.gstatic.com
 @@||projectbaseline.com^$denyallow=smetrics.projectbaseline.com
 @@||youtube.com^$denyallow=ads.youtube.com|analytics.corp.youtube.com|analytics.youtube.com|s.youtube.com|track.corp.youtube.com|tracker.corp.youtube.com
@@ -2144,7 +2144,6 @@
 @@||ytimg.com^
 !
 ! Block Domains
-||13453765871837679316.googlegroups.com^
 ||2mdn.net^
 ||adgoogle.net^
 ||admanager.l.google.com^
@@ -2696,7 +2695,6 @@
 ||urchin.com^
 ||us-central1-adaptive-growth.cloudfunctions.net^
 ||us-central1-amp-error-reporting.cloudfunctions.net^
-||us-central1-analytics-236511.cloudfunctions.net^
 ||us-central1-markuphero.cloudfunctions.net^
 ||video-stats.l.google.com^
 ||video-stats.video.google.com^
