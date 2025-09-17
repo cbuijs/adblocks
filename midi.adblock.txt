@@ -1,5 +1,5 @@
 ! Title: MIDI Allow/Block List (DNS)
-! Version: 1758039537
+! Version: 1758125932
 !
 ! Block Domain Exceptions (Parent is allow-listed)
 @@||cloudfunctions.net^$denyallow=asia-northeast1-affiliate-pr.cloudfunctions.net|europe-west1-bonnier-big-data.cloudfunctions.net|europe-west1-niro-tracking.cloudfunctions.net|europe-west1-sonorous-dragon-276210.cloudfunctions.net|us-central1-adaptive-growth.cloudfunctions.net|us-central1-amp-error-reporting.cloudfunctions.net|us-central1-markuphero.cloudfunctions.net
@@ -1130,6 +1130,7 @@
 @@||mkto-ab650097.com^
 @@||mkto-ab650115.com^
 @@||mkto-ab650145.com^
+@@||mkto-ab650161.com^
 @@||mkto-ab660121.com^
 @@||mkto-ab660168.com^
 @@||mkto-ab690006.com^
@@ -1184,7 +1185,6 @@
 @@||mkto-h0163.com^
 @@||mkto-i0028.com^
 @@||mkto-i0106.com^
-@@||mkto-i0201.com^
 @@||mkto-i0206.com^
 @@||mkto-j0020.com^
 @@||mkto-j0126.com^
@@ -1444,6 +1444,7 @@
 @@||mkto-sj280147.com^
 @@||mkto-sj290010.com^
 @@||mkto-sj290093.com^
+@@||mkto-sj290101.com^
 @@||mkto-sj290149.com^
 @@||mkto-sj290167.com^
 @@||mkto-sj290197.com^
@@ -1668,6 +1669,7 @@
 @@||redirect.appmetrica.yandex.com^
 @@||redirect.appmetrica.yandex.ru^
 @@||redirect.at^
+@@||redirect.prod.experiment.routing.cloudfront.aws.a2z.com^
 @@||redirect.public.beta.us-east-1.ses.aws.a2z.com^
 @@||redirect.viglink.com^
 @@||redirect447.tagcommander.com^
