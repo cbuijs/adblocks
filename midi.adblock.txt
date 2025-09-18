@@ -1,5 +1,5 @@
 ! Title: MIDI Allow/Block List (DNS)
-! Version: 1758125932
+! Version: 1758212333
 !
 ! Block Domain Exceptions (Parent is allow-listed)
 @@||cloudfunctions.net^$denyallow=asia-northeast1-affiliate-pr.cloudfunctions.net|europe-west1-bonnier-big-data.cloudfunctions.net|europe-west1-niro-tracking.cloudfunctions.net|europe-west1-sonorous-dragon-276210.cloudfunctions.net|us-central1-adaptive-growth.cloudfunctions.net|us-central1-amp-error-reporting.cloudfunctions.net|us-central1-markuphero.cloudfunctions.net
@@ -307,6 +307,11 @@
 @@||ampproject.org^
 @@||amway-cdn.exponea.com^
 @@||analytics-eu.trustyou.com^
+@@||analytics.adjust.cn^
+@@||analytics.adjust.com^
+@@||analytics.adjust.io^
+@@||analytics.adjust.net.in^
+@@||analytics.adjust.world^
 @@||analytics.trustyou.com^
 @@||analytics.twitter.com^
 @@||android.com^
