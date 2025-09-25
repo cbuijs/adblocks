@@ -1,8 +1,8 @@
 ! Title: MIDI Allow/Block List (DNS)
-! Version: 1758730715
+! Version: 1758817115
 !
 ! Block Domain Exceptions (Parent is allow-listed)
-@@||cloudfunctions.net^$denyallow=asia-northeast1-affiliate-pr.cloudfunctions.net|europe-west1-bonnier-big-data.cloudfunctions.net|europe-west1-niro-tracking.cloudfunctions.net|europe-west1-sonorous-dragon-276210.cloudfunctions.net|us-central1-adaptive-growth.cloudfunctions.net|us-central1-amp-error-reporting.cloudfunctions.net|us-central1-markuphero.cloudfunctions.net
+@@||cloudfunctions.net^$denyallow=asia-northeast1-affiliate-pr.cloudfunctions.net|europe-west1-bonnier-big-data.cloudfunctions.net|europe-west1-niro-tracking.cloudfunctions.net|europe-west1-sonorous-dragon-276210.cloudfunctions.net|us-central1-adaptive-growth.cloudfunctions.net|us-central1-amp-error-reporting.cloudfunctions.net|us-central1-analytics-236511.cloudfunctions.net|us-central1-markuphero.cloudfunctions.net
 @@||gmodules.com^$denyallow=ads.gmodules.com
 @@||google.ac^$denyallow=adservice.google.ac
 @@||google.ad^$denyallow=ads.google.ad|adservice.google.ad
@@ -1237,6 +1237,7 @@
 @@||mkto-m0027.com^
 @@||mkto-m0106.com^
 @@||mkto-m0186.com^
+@@||mkto-mlm10010008.com^
 @@||mkto-n0168.com^
 @@||mkto-n0199.com^
 @@||mkto-n0243.com^
@@ -2705,6 +2706,7 @@
 ||urchin.com^
 ||us-central1-adaptive-growth.cloudfunctions.net^
 ||us-central1-amp-error-reporting.cloudfunctions.net^
+||us-central1-analytics-236511.cloudfunctions.net^
 ||us-central1-markuphero.cloudfunctions.net^
 ||video-stats.l.google.com^
 ||video-stats.video.google.com^
