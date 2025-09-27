@@ -1,5 +1,5 @@
 ! Title: MIDI Allow/Block List (DNS)
-! Version: 1758903514
+! Version: 1758989914
 !
 ! Block Domain Exceptions (Parent is allow-listed)
 @@||cloudfunctions.net^$denyallow=asia-northeast1-affiliate-pr.cloudfunctions.net|europe-west1-bonnier-big-data.cloudfunctions.net|europe-west1-niro-tracking.cloudfunctions.net|europe-west1-sonorous-dragon-276210.cloudfunctions.net|us-central1-adaptive-growth.cloudfunctions.net|us-central1-amp-error-reporting.cloudfunctions.net|us-central1-analytics-236511.cloudfunctions.net|us-central1-markuphero.cloudfunctions.net
@@ -1644,6 +1644,7 @@
 @@||ra78rnoab.cc.rs6.net^
 @@||ra7jt48ab.cc.rs6.net^
 @@||rads.stackoverflow.com^
+@@||raisin-cdn.exponea.com^
 @@||rak7fucab.cc.rs6.net^
 @@||raoteqdab.cc.rs6.net^
 @@||rapki9kab.cc.rs6.net^
@@ -1677,6 +1678,7 @@
 @@||redirect.at^
 @@||redirect.prod.experiment.routing.cloudfront.aws.a2z.com^
 @@||redirect.public.beta.us-east-1.ses.aws.a2z.com^
+@@||redirect.stripe1.prod.experiment.routing.cloudfront.aws.a2z.com^
 @@||redirect.stripe2.prod.experiment.routing.cloudfront.aws.a2z.com^
 @@||redirect.viglink.com^
 @@||redirect447.tagcommander.com^
