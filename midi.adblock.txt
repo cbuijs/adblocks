@@ -1,5 +1,5 @@
 ! Title: MIDI Allow/Block List (DNS)
-! Version: 1758989914
+! Version: 1759076322
 !
 ! Block Domain Exceptions (Parent is allow-listed)
 @@||cloudfunctions.net^$denyallow=asia-northeast1-affiliate-pr.cloudfunctions.net|europe-west1-bonnier-big-data.cloudfunctions.net|europe-west1-niro-tracking.cloudfunctions.net|europe-west1-sonorous-dragon-276210.cloudfunctions.net|us-central1-adaptive-growth.cloudfunctions.net|us-central1-amp-error-reporting.cloudfunctions.net|us-central1-analytics-236511.cloudfunctions.net|us-central1-markuphero.cloudfunctions.net
@@ -1839,6 +1839,7 @@
 @@||suite-dashboard.gservice.emarsys.net^
 @@||suite.emarsys.net^
 @@||suite0.emarsys.net^
+@@||suite1.emarsys.net^
 @@||suite10-cdnnet.emarsys.net^
 @@||suite10.emarsys.net^
 @@||suite11.emarsys.net^
