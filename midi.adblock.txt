@@ -1,8 +1,8 @@
 ! Title: MIDI Allow/Block List (DNS)
-! Version: 1761758300
+! Version: 1761844699
 !
 ! Block Domain Exceptions (Parent is allow-listed)
-@@||cloudfunctions.net^$denyallow=asia-northeast1-affiliate-pr.cloudfunctions.net|asia-northeast3-kmplex-905ad.cloudfunctions.net|europe-west1-bonnier-big-data.cloudfunctions.net|europe-west1-niro-tracking.cloudfunctions.net|europe-west1-sonorous-dragon-276210.cloudfunctions.net|europe-west3-mir-telemetry.cloudfunctions.net|us-central1-ad-auris-tts-app.cloudfunctions.net|us-central1-adaptive-growth.cloudfunctions.net|us-central1-amp-error-reporting.cloudfunctions.net|us-central1-analytics-236511.cloudfunctions.net|us-central1-custom-site-analytics.cloudfunctions.net|us-central1-firebase-wixapp.cloudfunctions.net|us-central1-launchpad-169908.cloudfunctions.net|us-central1-markuphero.cloudfunctions.net|us-central1-metrics-prd.cloudfunctions.net|us-central1-powerblue-861ad.cloudfunctions.net
+@@||cloudfunctions.net^$denyallow=asia-northeast1-affiliate-pr.cloudfunctions.net|europe-west1-bonnier-big-data.cloudfunctions.net|europe-west1-niro-tracking.cloudfunctions.net|europe-west1-sonorous-dragon-276210.cloudfunctions.net|europe-west3-mir-telemetry.cloudfunctions.net|us-central1-ad-auris-tts-app.cloudfunctions.net|us-central1-adaptive-growth.cloudfunctions.net|us-central1-amp-error-reporting.cloudfunctions.net|us-central1-analytics-236511.cloudfunctions.net|us-central1-custom-site-analytics.cloudfunctions.net|us-central1-firebase-wixapp.cloudfunctions.net|us-central1-launchpad-169908.cloudfunctions.net|us-central1-markuphero.cloudfunctions.net|us-central1-metrics-prd.cloudfunctions.net
 @@||google.ac^$denyallow=adservice.google.ac
 @@||google.ad^$denyallow=ads.google.ad|adservice.google.ad
 @@||google.ae^$denyallow=ads.google.ae|adservice.google.ae
@@ -701,6 +701,7 @@
 @@||mkto-ab560068.com^
 @@||mkto-ab570110.com^
 @@||mkto-ab580004.com^
+@@||mkto-ab620045.com^
 @@||mkto-ab640193.com^
 @@||mkto-ab650097.com^
 @@||mkto-ab660121.com^
@@ -723,6 +724,7 @@
 @@||mkto-p0016.com^
 @@||mkto-sj010104.com^
 @@||mkto-sj010128.com^
+@@||mkto-sj020238.com^
 @@||mkto-sj030214.com^
 @@||mkto-sj040252.com^
 @@||mkto-sj070259.com^
@@ -739,6 +741,7 @@
 @@||mkto-sj240021.com^
 @@||mkto-sj250145.com^
 @@||mkto-sj270080.com^
+@@||mkto-sj270148.com^
 @@||mkto-sj310061.com^
 @@||mkto-sj310186.com^
 @@||mkto-sj320047.com^
@@ -873,6 +876,7 @@
 @@||s8.exacttarget.com^
 @@||safety.google^
 @@||sailthru.com^
+@@||sctrack.sendcloud.net^
 @@||sdk.us.xtremepush.com^
 @@||secure-hotel-tracker.com^
 @@||secure.everyaction.com^
@@ -934,6 +938,7 @@
 @@||suite63.emarsys.net^
 @@||suite67-cf.emarsys.net^
 @@||suite7.emarsys.net^
+@@||suite8.emarsys.net^
 @@||suite9.emarsys.net^
 @@||sv.brand-display.com^
 @@||sync-tm.everesttech.net^
@@ -1066,6 +1071,7 @@
 @@||track.glovoapp.com^
 @@||track.grove.co^
 @@||track.gumroad.com^
+@@||track.m2.sendlayer.net^
 @@||track.mdrctr.com^
 @@||track.mydirectpromonews-ah.com^
 @@||track.omguk.com^
@@ -1082,6 +1088,7 @@
 @@||track.tnm.de^
 @@||track.trafficguard.ai^
 @@||track01.engagelab.email^
+@@||track2.sendcloud.net^
 @@||track34102166105.effiliation.com^
 @@||trackcmp.net^
 @@||tracker.clickguard.com^
@@ -1109,6 +1116,7 @@
 @@||tracking.wordvineswz.com^
 @@||tradedoubler.com^
 @@||trck.wargaming.net^
+@@||trk-eu.customer.io^
 @@||trk.affattr.com^
 @@||trk.ecomm.lenovo.com^
 @@||trk.esn.com^
@@ -1609,7 +1617,6 @@
 ||apture.com^
 ||area120.com^
 ||asia-northeast1-affiliate-pr.cloudfunctions.net^
-||asia-northeast3-kmplex-905ad.cloudfunctions.net^
 ||blogspot.com^
 ||cc-dt.com^
 ||clientmetrics-pa.googleapis.com^
@@ -1724,7 +1731,6 @@
 ||us-central1-launchpad-169908.cloudfunctions.net^
 ||us-central1-markuphero.cloudfunctions.net^
 ||us-central1-metrics-prd.cloudfunctions.net^
-||us-central1-powerblue-861ad.cloudfunctions.net^
 ||video-stats.l.google.com^
 ||video-stats.video.google.com^
 ||web.app^

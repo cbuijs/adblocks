@@ -1,5 +1,5 @@
 ! Title: MAXI Allow/Block List (DNS)
-! Version: 1761758300
+! Version: 1761844700
 !
 ! Block Domain Exceptions (Parent is allow-listed)
 !
@@ -452,7 +452,6 @@
 ||apture.com^
 ||area120.com^
 ||asia-northeast1-affiliate-pr.cloudfunctions.net^
-||asia-northeast3-kmplex-905ad.cloudfunctions.net^
 ||blogspot.com^
 ||cc-dt.com^
 ||clientmetrics-pa.googleapis.com^
@@ -567,7 +566,6 @@
 ||us-central1-launchpad-169908.cloudfunctions.net^
 ||us-central1-markuphero.cloudfunctions.net^
 ||us-central1-metrics-prd.cloudfunctions.net^
-||us-central1-powerblue-861ad.cloudfunctions.net^
 ||video-stats.l.google.com^
 ||video-stats.video.google.com^
 ||web.app^
