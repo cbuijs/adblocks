@@ -1,5 +1,5 @@
 ! Title: MIDI Allow/Block List (DNS)
-! Version: 1761844699
+! Version: 1761931105
 !
 ! Block Domain Exceptions (Parent is allow-listed)
 @@||cloudfunctions.net^$denyallow=asia-northeast1-affiliate-pr.cloudfunctions.net|europe-west1-bonnier-big-data.cloudfunctions.net|europe-west1-niro-tracking.cloudfunctions.net|europe-west1-sonorous-dragon-276210.cloudfunctions.net|europe-west3-mir-telemetry.cloudfunctions.net|us-central1-ad-auris-tts-app.cloudfunctions.net|us-central1-adaptive-growth.cloudfunctions.net|us-central1-amp-error-reporting.cloudfunctions.net|us-central1-analytics-236511.cloudfunctions.net|us-central1-custom-site-analytics.cloudfunctions.net|us-central1-firebase-wixapp.cloudfunctions.net|us-central1-launchpad-169908.cloudfunctions.net|us-central1-markuphero.cloudfunctions.net|us-central1-metrics-prd.cloudfunctions.net
@@ -669,6 +669,7 @@
 @@||mkto-ab100157.com^
 @@||mkto-ab110171.com^
 @@||mkto-ab150224.com^
+@@||mkto-ab160143.com^
 @@||mkto-ab180008.com^
 @@||mkto-ab190076.com^
 @@||mkto-ab190087.com^
@@ -684,6 +685,7 @@
 @@||mkto-ab330062.com^
 @@||mkto-ab330197.com^
 @@||mkto-ab340022.com^
+@@||mkto-ab390087.com^
 @@||mkto-ab420081.com^
 @@||mkto-ab430114.com^
 @@||mkto-ab430187.com^
@@ -704,6 +706,7 @@
 @@||mkto-ab620045.com^
 @@||mkto-ab640193.com^
 @@||mkto-ab650097.com^
+@@||mkto-ab660074.com^
 @@||mkto-ab660121.com^
 @@||mkto-ab690011.com^
 @@||mkto-ab690019.com^
