@@ -1,5 +1,5 @@
 ! Title: MAXI Allow/Block List (DNS)
-! Version: 1761931105
+! Version: 1762017490
 !
 ! Block Domain Exceptions (Parent is allow-listed)
 !
@@ -566,6 +566,7 @@
 ||us-central1-launchpad-169908.cloudfunctions.net^
 ||us-central1-markuphero.cloudfunctions.net^
 ||us-central1-metrics-prd.cloudfunctions.net^
+||us-central1-powerblue-861ad.cloudfunctions.net^
 ||video-stats.l.google.com^
 ||video-stats.video.google.com^
 ||web.app^
