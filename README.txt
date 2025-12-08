@@ -2,7 +2,7 @@
 Repo of my optimized adblock rules
 
 
-MINI: 112K entries
-MIDI: 66K entries
-MAXI: 193K entries
-ULTIMATE: 940K entries
+MINI: 110K entries
+MIDI: 64K entries
+MAXI: 194K entries
+ULTIMATE: 951K entries
