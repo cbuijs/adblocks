@@ -1,7 +1,7 @@
 
 Repo of my optimized adblock rules.
 
-MINI: 80K entries (Safe/Refined)
-MIDI: 122K entries (Safe/Refined)
-MAXI: 272K entries (Unrefined)
-ULTIMATE: 363K entries (Unrefined)
+MINI: 82K entries (Safe/Refined)
+MIDI: 123K entries (Safe/Refined)
+MAXI: 273K entries (Unrefined)
+ULTIMATE: 364K entries (Unrefined)
